@@ -1,6 +1,6 @@
 # Mafia-II-Definitive-edition---Bulgarian-language-
 
-Това е български език за Mafia II Definitive Edition версия 2020 година. Не работи със старата класик версия от 2010та.
+###Това е български език за Mafia II Definitive Edition версия 2020 година. Не работи със старата класик версия от 2010та.
 Направена е историята на 100%.
 3те DLCта не са правени и по-голямата част е с руски субтитри. Не препоръчвам да го използате за тях.
 Работи и със Steam версията на Mafia II Definitive Edition.
@@ -10,6 +10,6 @@
 Приятна игра!
 Fairytale™
 
-### screenshots
+ screenshots
 
 ![Menu](https://user-images.githubusercontent.com/18502735/87835097-d60b4800-c894-11ea-8cb3-d01c1979b1cf.jpg)
