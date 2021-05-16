@@ -8,10 +8,13 @@
 В зависимост от версията е възможно директорията SDS да е с име SDS_EN или ако използвате език различен от английски, да е с име SDS_RU за руски език, SDS_DE за немски език, SDS_IT за италиански език и т.н. В такъв случай трябва да поставите файла в директорията с правилния език. Най сигурният начин , е просто да смените езика в играта на английски и тогава да замените файла в SDS.
 
 ### Приятна игра!
-###   Fairytale™
+##   Fairytale™
 
-https://www.youtube.com/watch?v=9gvM7O-lx_w&t
-https://www.youtube.com/watch?v=kaIHiLPPkTc&t
+Ако харесате превода и бихте желали да подкрепите бъдещи преводи, може да го направите с избрана от вас сума чрез PayPal или карта. Високо се ценят всякакви дарения:
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=sony%40abv.bg&currency_code=EUR)
+### 
+«1» https://www.youtube.com/watch?v=9gvM7O-lx_w&t
+«2» https://www.youtube.com/watch?v=kaIHiLPPkTc&t
 
 
 
